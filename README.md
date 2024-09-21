@@ -1,0 +1,2 @@
+# .safasfa
+pagina cube
